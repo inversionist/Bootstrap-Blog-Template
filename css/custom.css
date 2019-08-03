@@ -1,0 +1,7 @@
+/* Write your CSS here */
+
+.jumbotron {
+    margin-bottom:0; 
+    background:url("../img/jumbotron-img.jpg");;
+    color: white;
+}
