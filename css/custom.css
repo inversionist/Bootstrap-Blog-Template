@@ -2,6 +2,6 @@
 
 .jumbotron {
     margin-bottom:0; 
-    background-image:url("../img/jumbotron-img.jpg");;
+    background-color:url("../img/jumbotron-img.jpg");
     color: white;
 }
